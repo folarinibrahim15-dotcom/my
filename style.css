@@ -1,10 +1,10 @@
 body {
-    font-family: 'Arial';
+    font-family: "Inter", system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
     display: flex;
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background: #eeeafc;
+    background: #e9e3fe;
 }
 
 .shoe {
